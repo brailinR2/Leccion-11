@@ -1,0 +1,15 @@
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\bin\Debug\net10.0\Leccion-11.exe
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\bin\Debug\net10.0\Leccion-11.deps.json
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\bin\Debug\net10.0\Leccion-11.runtimeconfig.json
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\bin\Debug\net10.0\Leccion-11.dll
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\bin\Debug\net10.0\Leccion-11.pdb
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.AssemblyInfoInputs.cache
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.AssemblyInfo.vb
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.vbproj.CoreCompileInputs.cache
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.dll
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\refint\Leccion-11.dll
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.pdb
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.genruntimeconfig.cache
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\ref\Leccion-11.dll
+C:\Users\brail\OneDrive\Documents\escuela\taller\merlin\lecciones\Leccion-11\Leccion-11\obj\Debug\net10.0\Leccion-11.vbproj.Up2Date
